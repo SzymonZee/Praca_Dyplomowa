@@ -1,0 +1,5 @@
+1.Podłacz bateryjne źródło zasilania do wyprowadzonego złącza.
+2. Przygotuj miejscie akiwzycji sygnału EMG, oraz umieść elektordy.
+3. Uruchom aplikacje notyfie.cpp i połacz sie z mikrokontrolerem BlueNRG-2
+4. Wybierz charketrytykę oznaczoną numerem "4"
+5.Dane z utworzonego pliki wczytaj do skryptu matlab
